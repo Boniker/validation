@@ -1,4 +1,4 @@
 #!/bin/bash
 touch hello
-sudo chmod 754 hello
+chmod 754 hello
 
